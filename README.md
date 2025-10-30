@@ -1,6 +1,9 @@
 ### Hi there, I'm YODA Principles 👋
 
 Teach you to harness the power of the (technology) Force I do.
+
+Slides of [distribis 2025 talk](https://datasets.datalad.org/centerforopenneuroscience/talks/2025-distribits-YODA.html#/) see might you want!
+
 More efficient and reproducible research you do.
 
 📫 How to reach me:  the question on [NeuroStars](https://neurostars.org/search?q=tags%3Ayoda) you ask,

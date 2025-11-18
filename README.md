@@ -2,7 +2,8 @@
 
 Teach you to harness the power of the (technology) Force I do.
 
-Slides of [distribis 2025 talk](https://datasets.datalad.org/centerforopenneuroscience/talks/2025-distribits-YODA.html#/) see might you want!
+The slides of [distribis 2025 talk "Pragmatic YODA"](https://datasets.datalad.org/centerforopenneuroscience/talks/2025-distribits-YODA.html#/) flip through you want!
+The [video](https://www.youtube.com/watch?v=EuKVapscUQ4) see you must!
 
 More efficient and reproducible research you do.
 
